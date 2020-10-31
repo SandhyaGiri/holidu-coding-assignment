@@ -6,8 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshots
 
-![Initial search results page](public/apartment-search-results.png)
-![Spotlight on a particular apartment](public/apartment-spotlight.png)
+1. Initial screen showing all the search results
+
+![Initial](public/apartment-search-results.png)
+
+2. Spotlight screen where a particular apartment is in focus, displaying all the photos with additional information.
+
+![Spotlight](public/apartment-spotlight.png)
 
 ## Available Scripts
 
